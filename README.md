@@ -29,8 +29,8 @@
   <a href="https://www.linkedin.com/in/rafael-gomez-uban-49b99b231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:rgomezh02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-rgomezh02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rgudev@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-rgudev@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.github.com/rafaz01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
