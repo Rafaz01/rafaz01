@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/rafael-gomez-uban-49b99b231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:rgudev@icloud.com" target="_blank">
+  <a href="mailto:contact@rafaelgomez.dev" target="_blank">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.github.com/rafaz01" target="_blank">
